@@ -3,14 +3,12 @@
 ### I am an IT student that probably writes code
 Currently I am studying IT where I mostly use HTML, CSS, and a little bit of JS. But at home or during breaks in school I like to dabble in Python where I use Django, Selenium and I will try to get into some machine learning soon.
 ##
-
 ### Skills
 🗣️ Talking <br/>
 📖 Learning <br/>
 🏋️ Going to the gym 🤣 <br/>
 🤝 Teamwork <br/>
-
-###
+##
 ### Languages and Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
