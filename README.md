@@ -19,5 +19,7 @@ Currently I am studying IT where I mostly use HTML, CSS, and a little bit of JS.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+### Example of my finished project:
+Click <a href="https://github.com/MrPotatorust/real_estate_web_scraper">Here</a>
 
 ### Checkout some of my projects ⬇️
