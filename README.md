@@ -22,4 +22,7 @@ Currently I am studying IT where I mostly use HTML, CSS, and a little bit of JS.
 ### Example of my finished project:
 Click <a href="https://github.com/MrPotatorust/real_estate_web_scraper">Here</a>
 
+### Work in progress but really cool:
+Click <a href="https://github.com/MrPotatorust/real_estate_scraper_website">Here</a>
+
 ### Checkout some of my projects ⬇️
