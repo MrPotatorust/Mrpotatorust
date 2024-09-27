@@ -19,10 +19,13 @@ Currently I am studying IT where I mostly use HTML, CSS, and a little bit of JS.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
+### Simple ELT pipeline:
+Click <a href="https://github.com/MrPotatorust/really_basic_etl_pipeline">Here</a>
+
 ### Example of my finished project:
-Click <a href="https://github.com/MrPotatorust/real_estate_web_scraper">Here</a>
+Click <a href="https://github.com/MrPotatorust/real_estate_scraper_website">Here</a>
 
 ### 👷 Work in progress but really cool:
-Click <a href="https://github.com/MrPotatorust/real_estate_scraper_website">Here</a>
+Click <a href="https://github.com/MrPotatorust/real-estate-checker">Here</a>
 
 ### Checkout some of my projects ⬇️
