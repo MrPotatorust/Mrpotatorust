@@ -25,7 +25,7 @@ Click <a href="https://github.com/MrPotatorust/really_basic_etl_pipeline">Here</
 ### Example of my finished project:
 Click <a href="https://github.com/MrPotatorust/real_estate_scraper_website">Here</a>
 
-### 👷 Work in progress but really cool:
+### 👷 My biggest project, work in progress:
 Click <a href="https://github.com/MrPotatorust/real-estate-checker">Here</a>
 
 ### Checkout some of my projects ⬇️
