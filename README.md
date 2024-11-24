@@ -27,5 +27,7 @@ Click <a href="https://github.com/MrPotatorust/real_estate_scraper_website">Here
 
 ### 👷 My biggest project, work in progress:
 Click <a href="https://github.com/MrPotatorust/real-estate-checker">Here</a>
+### 👷 My secondary project, work in progress:
+Click <a href="https://github.com/MrPotatorust/social-media-site">Here</a>
 
 ### Checkout some of my projects ⬇️
