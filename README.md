@@ -6,7 +6,7 @@ Currently I am studying IT where I mostly use HTML, CSS, and a little bit of JS.
 ### Skills
 🗣️ Talking <br/>
 📖 Learning <br/>
-🏋️ Going to the gym 🤣 <br/>
+🏋️ Going to the gym <br/>
 🤝 Teamwork <br/>
 ##
 ### Languages and Technologies
